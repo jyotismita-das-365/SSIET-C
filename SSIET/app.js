@@ -1,1 +1,0 @@
-const mongoConnect = require("database.js");

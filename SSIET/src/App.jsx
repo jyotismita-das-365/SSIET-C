@@ -5,8 +5,7 @@ function App() {
 
   return (
     <>
-      <Navbar />
-      <Footer />
+      <h1>Hello world</h1>
     </>
   )
 }
